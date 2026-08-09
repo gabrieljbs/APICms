@@ -15,3 +15,4 @@ C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\obj\D
 C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\obj\Debug\net8.0\Blog.pdb
 C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\obj\Debug\net8.0\Blog.genruntimeconfig.cache
 C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\obj\Debug\net8.0\ref\Blog.dll
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\obj\Debug\net8.0\Blog.sourcelink.json

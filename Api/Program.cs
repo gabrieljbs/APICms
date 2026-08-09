@@ -85,32 +85,37 @@ builder.Services.AddSwaggerGen(c =>
 
 var app = builder.Build();
 
-// --- Seed Initial Admin User if table is empty ---
-using (var scope = app.Services.CreateScope())
+// --- Seed Initial Admin User if table is empty (apenas em ambiente de desenvolvimento) ---
+if (app.Environment.IsDevelopment())
 {
-    try
+    using (var scope = app.Services.CreateScope())
     {
-        var blogDb = scope.ServiceProvider.GetRequiredService<BlogDbContext>();
-        if (!blogDb.Users.Any())
+        try
         {
-            var adminUser = new User
+            var blogDb = scope.ServiceProvider.GetRequiredService<BlogDbContext>();
+            if (!blogDb.Users.Any())
             {
-                Name = "Administrador Root",
-                Email = "admin@devsuite.com",
-                PasswordHash = BCrypt.Net.BCrypt.HashPassword("admin123"),
-                Permission = Role.Admin,
-                Active = true,
-                CreatedAt = DateTime.UtcNow,
-                UpdatedAt = DateTime.UtcNow
-            };
-            blogDb.Users.Add(adminUser);
-            blogDb.SaveChanges();
-            Console.WriteLine("[Seeder]: Usuario Admin inicial criado com sucesso (admin@devsuite.com / admin123)");
+                var seedEmail = builder.Configuration["Seed:AdminEmail"] ?? "admin@devsuite.com";
+                var seedPassword = builder.Configuration["Seed:AdminPassword"] ?? "admin123";
+                var adminUser = new User
+                {
+                    Name = "Administrador Root",
+                    Email = seedEmail,
+                    PasswordHash = BCrypt.Net.BCrypt.HashPassword(seedPassword),
+                    Permission = Role.Admin,
+                    Active = true,
+                    CreatedAt = DateTime.UtcNow,
+                    UpdatedAt = DateTime.UtcNow
+                };
+                blogDb.Users.Add(adminUser);
+                blogDb.SaveChanges();
+                Console.WriteLine($"[Seeder]: Usuario Admin inicial criado para desenvolvimento ({seedEmail})");
+            }
         }
-    }
-    catch (Exception ex)
-    {
-        Console.WriteLine($"[Seeder Error]: {ex.Message}");
+        catch (Exception ex)
+        {
+            Console.WriteLine($"[Seeder Error]: {ex.Message}");
+        }
     }
 }
 

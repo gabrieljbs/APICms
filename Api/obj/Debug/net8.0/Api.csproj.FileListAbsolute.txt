@@ -127,3 +127,4 @@ C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Api\obj\De
 C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Api\obj\Debug\net8.0\Api.pdb
 C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
 C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Api\obj\Debug\net8.0\Api.sourcelink.json
