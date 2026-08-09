@@ -121,11 +121,13 @@ if (app.Environment.IsDevelopment())
 
 app.UseCors();
 
-if (app.Environment.IsDevelopment())
+// Habilita Swagger em todos os ambientes (inclusive producao) e define na raiz do site
+app.UseSwagger();
+app.UseSwaggerUI(c =>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Api v1");
+    c.RoutePrefix = string.Empty; // Abre o Swagger diretamente na raiz (https://seu-site.monsterasp.net/)
+});
 
 app.UseAuthentication();
 app.UseAuthorization();
