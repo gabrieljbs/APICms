@@ -1,0 +1,17 @@
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Portfolio\bin\Debug\net8.0\Portfolio.deps.json
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Portfolio\bin\Debug\net8.0\Portfolio.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Portfolio\bin\Debug\net8.0\Portfolio.dll
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Portfolio\bin\Debug\net8.0\Portfolio.pdb
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Portfolio\bin\Debug\net8.0\Shared.dll
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Portfolio\bin\Debug\net8.0\Shared.pdb
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Portfolio\obj\Debug\net8.0\Portfolio.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Portfolio\obj\Debug\net8.0\Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Portfolio\obj\Debug\net8.0\Portfolio.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Portfolio\obj\Debug\net8.0\Portfolio.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Portfolio\obj\Debug\net8.0\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Portfolio\obj\Debug\net8.0\Portfolio.csproj.Up2Date
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Portfolio\obj\Debug\net8.0\Portfolio.dll
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Portfolio\obj\Debug\net8.0\refint\Portfolio.dll
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Portfolio\obj\Debug\net8.0\Portfolio.pdb
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Portfolio\obj\Debug\net8.0\Portfolio.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Portfolio\obj\Debug\net8.0\ref\Portfolio.dll

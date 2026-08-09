@@ -1,0 +1,17 @@
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\bin\Debug\net8.0\Blog.deps.json
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\bin\Debug\net8.0\Blog.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\bin\Debug\net8.0\Blog.dll
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\bin\Debug\net8.0\Blog.pdb
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\bin\Debug\net8.0\Shared.dll
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\bin\Debug\net8.0\Shared.pdb
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\obj\Debug\net8.0\Blog.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\obj\Debug\net8.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\obj\Debug\net8.0\Blog.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\obj\Debug\net8.0\Blog.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\obj\Debug\net8.0\Blog.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\obj\Debug\net8.0\Blog.csproj.Up2Date
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\obj\Debug\net8.0\Blog.dll
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\obj\Debug\net8.0\refint\Blog.dll
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\obj\Debug\net8.0\Blog.pdb
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\obj\Debug\net8.0\Blog.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Projetos Ativos\gabriel-dev-suite\api\Blog\obj\Debug\net8.0\ref\Blog.dll
