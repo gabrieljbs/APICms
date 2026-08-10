@@ -132,6 +132,7 @@ app.UseSwaggerUI(c =>
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
+app.MapGet("/swagger", () => Results.Redirect("/"));
 app.MapGet("/health", () => Results.Ok(new { Status = "Online", Message = "Api DevSuite operando com sucesso", Timestamp = DateTime.UtcNow }));
 
 app.Run();
